@@ -1,2 +1,2 @@
 # angular-css-loader
-css leader for angular with css overlay 
+css loader for angular with css overlay 
