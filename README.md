@@ -5,6 +5,6 @@
 2 Add HTML Div Tag
 ```bash
 <div class="loader loader-default" [class.is-active]="showLoader" data-text="Custom text"></div>
-'''
+```
 3 Enable or Disable
 this.showLoader=true
