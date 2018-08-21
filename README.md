@@ -2,7 +2,7 @@
 <h1>css loader for angular with css overlay </h1>
 
 
-[https://github.com/amilathennakoon/angular-css-loader/blob/master/angular-css-loader/Screenshot.png|alt=octocat]
+![alt text](https://github.com/amilathennakoon/angular-css-loader/blob/master/angular-css-loader/Screenshot.png|alt=octocat)
 
 
 
