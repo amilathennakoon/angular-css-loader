@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'angular-css-loader';
   showLoader = false;
 
-
+//Amila 
   ShowLoader() {
     this.showLoader = true;
     setTimeout(() => {    //<<<---    using ()=> syntax
