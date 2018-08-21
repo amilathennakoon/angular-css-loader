@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-css-loader';
+  showLoader = false;
+
+
+  ShowLoader() {
+    this.showLoader = true;
+    setTimeout(() => {    //<<<---    using ()=> syntax
+      this.showLoader = !this.showLoader;
+    }, 3000);
+  }
+
 }
