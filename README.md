@@ -108,4 +108,7 @@
 ```
 
 3 Enable or Disable
+
+```bash
 this.showLoader=true
+```
