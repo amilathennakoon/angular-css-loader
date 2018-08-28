@@ -112,8 +112,11 @@
 <div class="loader loader-default" [class.is-active]="showLoader" data-text="Custom text"></div>
 ```
 
-3 Enable or Disable
+3 Show or Hide loader
 
 ```bash
+//Show Loader
 this.showLoader=true
+
+//Hide Loader
 ```
